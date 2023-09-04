@@ -29,14 +29,4 @@ import java.util.*;
     boolean horizontal(){ return horizontal; }
 
     boolean increment(){ return increment; }
-
-
-
-
-
-
-
-
-
 }
-

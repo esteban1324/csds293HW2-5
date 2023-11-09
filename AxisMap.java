@@ -70,22 +70,5 @@ public Optional<Integer> indexOf(S value){
 public String toString(){
     return index().toString();
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
 }
